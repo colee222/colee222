@@ -1,5 +1,5 @@
 ## Nichole Sullivan - Adventure Scientist
-I’m Nichole Sullivan, a multi-displinary scientist and self appointed adventure scientist. *Adventure Scientist* is a unique self identification that captures my willingness to try new things, push boundaries, and say yes, with my passion for experimentation, observation, and learning.
+I’m Nichole Sullivan, a multi-disciplinary scientist and self appointed adventure scientist. *Adventure Scientist* is a unique self identification that captures my willingness to try new things, push boundaries, and say yes, with my passion for experimentation, observation, and learning.
 
 I have a formal comprehensive physical science background and a lifetime of building and tinkering including
 building custom pieces for farming needs and scientific instruments. I've coded numerous multi-physics models to describe real-world experiments, led atrificial intelligence projects,
