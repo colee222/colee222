@@ -3,7 +3,7 @@ I’m Nichole Sullivan, a multi-disciplinary scientist and self appointed advent
 
 I have a formal comprehensive physical science background and a lifetime of building and tinkering including
 building custom pieces for farming needs and scientific instruments. I've coded numerous multi-physics models to describe real-world experiments, led atrificial intelligence projects,
-developed prototypes, and tinkered with webdevelopment in many platforms.
+developed prototypes, and tinkered with web development in many platforms.
 
 With diverse R&D experiences I have a wide range of wet laboratory and computer science skills, in a wide range of scientific fields. I have specalized in identifying and applying emerging technologies across different disciplines, bringing them togther, and appying them to problems in the idustry sector. 
 
