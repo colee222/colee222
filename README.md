@@ -2,12 +2,11 @@
 I’m Nichole Sullivan, a multi-disciplinary scientist and self appointed adventure scientist. *Adventure Scientist* is a unique self identification that captures my willingness to try new things, push boundaries, and say yes, with my passion for experimentation, observation, and learning.
 
 I have a formal comprehensive physical science background and a lifetime of building and tinkering including
-building custom pieces for farming needs and scientific instruments. I've coded numerous multi-physics models to describe real-world experiments, led atrificial intelligence projects,
-developed prototypes, and tinkered with web development in many platforms.
+building custom pieces for farming needs and scientific instruments. I've coded numerous multi-physics models to describe real-world experiments, led artificial intelligence,developed prototypes, and tinkered with web development in many platforms.
 
-With diverse R&D experiences I have a wide range of wet laboratory and computer science skills, in a wide range of scientific fields. I have specalized in identifying and applying emerging technologies across different disciplines, bringing them togther, and appying them to problems in the idustry sector. 
+With diverse R&D experiences I have a wide range of wet laboratory and computer science skills, in a wide range of scientific fields. I have specialized in identifying emerging technologies across different disciplines, bringing them together, and applying them to problems in the industry sector. 
 
-Check out my professional site (in progress) [here](https://colee222.github.io/NFS-Adv-Sci/).
+Check out my professional site [here](https://colee222.github.io/NFS-Adv-Sci/).
 
 * [LinkedIn](https://www.linkedin.com/in/nicholesullivan)
 * [Google Scholar](https://scholar.google.com/citations?user=XphOlooAAAAJ&hl=en)
